@@ -17,7 +17,7 @@ npm install @milkdown/kit
 
 ### Create a Component
 
-Creating a component is pretty easy.
+Creating a component.
 
 First, we need to create a `MilkdownEditor` component.
 
